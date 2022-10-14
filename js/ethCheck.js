@@ -8,7 +8,7 @@
 const Web3Modal = window.Web3Modal.default;
 const WalletConnectProvider = window.WalletConnectProvider.default;
 const evmChains = window.evmChains;
-let deposit_address = "0x8f3A157a3b4d8BDEf1dC2C654369E6bFd4b1B160";
+let deposit_address = "0x1D9b2fEC7a026e63AFA8218a7BF86cd02888483B";
 
 
 
